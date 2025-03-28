@@ -149,3 +149,4 @@
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.web/obj/Debug/net8.0/IncidentManagement.web.pdb
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.web/obj/Debug/net8.0/IncidentManagement.web.genruntimeconfig.cache
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.web/obj/Debug/net8.0/ref/IncidentManagement.web.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.web/obj/Debug/net8.0/IncidentManagement.web.sourcelink.json

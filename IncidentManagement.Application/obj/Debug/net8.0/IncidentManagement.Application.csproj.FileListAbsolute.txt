@@ -15,3 +15,4 @@
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/refint/IncidentManagement.Application.dll
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.pdb
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/ref/IncidentManagement.Application.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.sourcelink.json

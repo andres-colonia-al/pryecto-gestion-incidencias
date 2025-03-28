@@ -15,3 +15,4 @@
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.pdb
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.genruntimeconfig.cache
 /Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/ref/IncidentManagement.Infrastructure.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.sourcelink.json
