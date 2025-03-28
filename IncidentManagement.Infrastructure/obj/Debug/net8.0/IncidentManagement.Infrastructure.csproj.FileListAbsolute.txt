@@ -1,0 +1,17 @@
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/bin/Debug/net8.0/IncidentManagement.Infrastructure.deps.json
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/bin/Debug/net8.0/IncidentManagement.Infrastructure.runtimeconfig.json
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/bin/Debug/net8.0/IncidentManagement.Infrastructure.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/bin/Debug/net8.0/IncidentManagement.Infrastructure.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/bin/Debug/net8.0/IncidentManagement.Domain.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/bin/Debug/net8.0/IncidentManagement.Domain.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.AssemblyInfo.cs
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/Incident.17FEB91B.Up2Date
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/refint/IncidentManagement.Infrastructure.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/IncidentManagement.Infrastructure.genruntimeconfig.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Infrastructure/obj/Debug/net8.0/ref/IncidentManagement.Infrastructure.dll

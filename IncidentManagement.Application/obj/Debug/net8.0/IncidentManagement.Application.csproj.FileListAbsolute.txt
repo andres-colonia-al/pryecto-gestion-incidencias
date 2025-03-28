@@ -1,0 +1,17 @@
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Application.deps.json
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Application.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Application.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Domain.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Infrastructure.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Domain.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/bin/Debug/net8.0/IncidentManagement.Infrastructure.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.csproj.AssemblyReference.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.AssemblyInfoInputs.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.AssemblyInfo.cs
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.csproj.CoreCompileInputs.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/Incident.7237E0A8.Up2Date
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/refint/IncidentManagement.Application.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/IncidentManagement.Application.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Application/obj/Debug/net8.0/ref/IncidentManagement.Application.dll

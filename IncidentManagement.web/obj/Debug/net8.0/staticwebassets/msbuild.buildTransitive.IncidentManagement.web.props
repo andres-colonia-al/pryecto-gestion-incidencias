@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/IncidentManagement.web.props" />
+</Project>

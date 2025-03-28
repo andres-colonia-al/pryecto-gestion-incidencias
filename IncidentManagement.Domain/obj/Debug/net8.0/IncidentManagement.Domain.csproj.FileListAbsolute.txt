@@ -1,0 +1,11 @@
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/bin/Debug/net8.0/IncidentManagement.Domain.deps.json
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/bin/Debug/net8.0/IncidentManagement.Domain.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/bin/Debug/net8.0/IncidentManagement.Domain.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/IncidentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/IncidentManagement.Domain.AssemblyInfoInputs.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/IncidentManagement.Domain.AssemblyInfo.cs
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/IncidentManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/IncidentManagement.Domain.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/refint/IncidentManagement.Domain.dll
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/IncidentManagement.Domain.pdb
+/Users/andrescolonia/Desktop/IncidentManagement/IncidentManagement.Domain/obj/Debug/net8.0/ref/IncidentManagement.Domain.dll
